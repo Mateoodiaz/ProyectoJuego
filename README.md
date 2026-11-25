@@ -49,7 +49,7 @@ El bucle de turnos de la partida completa y la comunicación mediante sockets se
 
 ## Video explicativo
 
-Enlace: [Agregar enlace del video]
+Enlace: https://drive.google.com/file/d/1d8ARI4lngzu4i1kTPfq4LzTcOSiKlguG/view?usp=drivesdk
 
 En el video se demostrará el funcionamiento del menú, la validación de una jugada inválida, el fin de la partida y la traducción de los diagramas RAPTOR a Python.
 
